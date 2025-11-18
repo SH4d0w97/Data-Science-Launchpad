@@ -1,0 +1,12 @@
+# Ignore Data and Database files (crucial for GitHub)
+data/
+*.csv
+*.db
+
+# Ignore Virtual Environment
+.venv/
+
+# Ignore Python specific files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
