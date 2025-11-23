@@ -22,4 +22,4 @@ Instead of boring exercises, we are going to analyze a real dataset of 100,000+ 
 3.  Go to `01_Environment_Setup` and run the loader script.
 
 ---
-*Created by [Your Name] as a guide for aspiring Data Scientists.*
+*Created by **SH4d0w97** as a guide for aspiring Data Scientists.*
