@@ -42,4 +42,4 @@ for filename in os.listdir(data_folder):
             print(f"   ❌ Error loading {filename}: {e}")
 
 conn.close()
-print(f"\n🎉 Week 3 Task Complete! Summary generated for {files_processed} files.")
+print(f"\nSummary generated for {files_processed} files.")
